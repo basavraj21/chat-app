@@ -1,5 +1,7 @@
 # React Firebase Super Chat
 
-A simple chat application with react for the front end development
+A simple chat application with react and firebase
 
-Firebase as backend
+install dependencies :
+
+npm install react-firebase-hooks
